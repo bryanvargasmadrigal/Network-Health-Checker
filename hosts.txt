@@ -1,0 +1,7 @@
+# Lista de hosts a verificar (uno por línea)
+# Las líneas que empiezan con # son ignoradas
+8.8.8.8
+1.1.1.1
+google.com
+github.com
+192.168.1.1
